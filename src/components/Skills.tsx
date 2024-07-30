@@ -49,7 +49,6 @@ const Skills: React.FC = () => {
         // Methodologies & Concepts
         { name: 'Agile/Scrum', category: 'methodologies' },
         { name: 'SDLC', category: 'methodologies' },
-        { name: 'TDD', category: 'methodologies' },
         { name: 'Microservices Architecture', category: 'methodologies' },
         { name: 'Design Patterns', category: 'methodologies' },
         { name: 'SOLID Principles', category: 'methodologies' },
