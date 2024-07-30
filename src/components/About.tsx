@@ -75,7 +75,7 @@ export default function About(){
                                 "Integrated multiple vendor systems, aggregating transactional data for over 1,000,000 annual transactions",
                                 "Developed an automated reporting tool that increased back-office efficiency by over 80%",
                                 "Optimized tank monitoring system, increasing reliability in a major way",
-                                "Mentored 2 junior developers, both of whom were promoted within 2 years"
+                                "Presented workflow solutions to fellow team members",
                             ]}
                         />
                         <ExperienceItem
@@ -84,7 +84,8 @@ export default function About(){
                             period="Oct. 2011 - Sept. 2012"
                             achievements={[
                                 "Implemented the Mercurial version control system on the development team",
-                                "Supported the internal eCRM system"
+                                "Supported the internal eCRM system",
+                                "Managed daily ticket queue",
                             ]}
                         />
                     </div>
